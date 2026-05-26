@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvalidate",
+        "uuid": 1970496,
+        "checksum": "h6rvhs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
